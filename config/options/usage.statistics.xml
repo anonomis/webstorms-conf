@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UsagesStatistic" time="1365060499579" allowed="true" show-notification="false" period="weekly">
+    <group id="JavaScript versions" priority="0.0" data="DEFAULT=2" />
+    <group id="Look and Feel" priority="0.0" data="Linux - gnome - Darcula=1" />
+    <group id="features counts" priority="0.0" data="NewDirectoryProjectAction.HTML5 Boilerplate=1,NewDirectoryProjectAction.empty=1,execute.JavascriptDebugSession.Debug=3" />
+    <group id="file-type" priority="0.0" data="CoffeeScript=1,JavaScript=2,Images=2,PLAIN_TEXT=2,XML=2,CSS=2,HTML=2,UNKNOWN=2" />
+    <group id="javaScript Scope Usages" priority="0.0" data="Project=4" />
+    <group id="module type" priority="0.0" data="WEB_MODULE=2" />
+    <group id="non-bundled-plugins" priority="0.0" data="com.intellij=1" />
+    <group id="productivity" priority="0.0" data="editing.select.word=1,editing.completion.replace=2,editing.completion.basic=2" />
+    <group id="run-configuration-type" priority="0.0" data="JavascriptDebugSession.Local=1" />
+  </component>
+</application>
+

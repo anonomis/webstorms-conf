@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="circuit" values="JavascriptDebugSession.Local" />
+    </group>
+    <group name="module type">
+      <project id="reddit tv" values="WEB_MODULE" />
+      <project id="circuit" values="WEB_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="reddit tv" values="XML,HTML,PLAIN_TEXT,CSS,UNKNOWN,JavaScript,Images" />
+      <project id="circuit" values="HTML,CSS,CoffeeScript,JavaScript,UNKNOWN,Images,PLAIN_TEXT,XML" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="reddit tv" values="DEFAULT" />
+      <project id="circuit" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="reddit tv" values="Project,Project" />
+      <project id="circuit" values="Project,Project" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="NewDirectoryProjectAction.HTML5 Boilerplate" count="1" />
+      <entry feature="NewDirectoryProjectAction.empty" count="2" />
+      <entry feature="execute.JavascriptDebugSession.Debug" count="3" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="111" />
+    </counts>
+  </component>
+</application>
+
